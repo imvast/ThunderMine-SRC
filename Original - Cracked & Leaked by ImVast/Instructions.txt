@@ -1,0 +1,14 @@
+Welcome to the community!
+
+Version 2.8 |
+
+Supported on all Windows 7 - 11.
+If you are on macOS or any other operating system contact support for the right installer.
+
+Steps:
+
+1. Edit the config.json file to your liking.
+2. Open the miner, make sure the newton.json dll file is in the same directory
+3. Register with your license and create an account, then login and you'll be prompted to restart the application to save auto-login.
+4. Then you can automatically login and proceed to link your wallet to the software by inputting your btc address. 
+5. Once it is added you can head over to private mining (public mining is not available at the moment), and you can start mining!
